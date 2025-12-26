@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "モノクロセンス 2021",
+  "base_artist": "r-906",
+  "createdAt": "2025-12-26T07:42:04.387290Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モノクロセンス 2021",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_モノクロセンス_2021_r-906.txt"
+    }
+  ]
+}
